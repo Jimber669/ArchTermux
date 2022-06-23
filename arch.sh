@@ -101,11 +101,11 @@ sleep 1
 echo ""
 echo -e "\e[1;33marchivo \e[0m\e[1;31m= \e[0m$g"
 echo ""
-echo -e "\e[1;36m. 3s\e[0m"
+echo -e "  \e[1;36m. 3s\e[0m"
 sleep 1
-echo -e "\e[1;36m.. 2s\e[0m"
+echo -e "   \e[1;36m.. 2s\e[0m"
 sleep 1
-echo -e "\e[1;36m... 1s\e[0m"
+echo -e "    \e[1;36m... 1s\e[0m"
 sleep 2
 clear
 echo -e "\e[1;32mArchivo guardado como copia en el celular\e[0m"
@@ -140,11 +140,11 @@ sleep 1
 echo ""
 echo -e "\e[1;33marchivo \e[0m\e[1;31m= \e[0m$b"
 echo ""
-echo -e "\e[1;36m. 3s\e[0m"
+echo -e "  \e[1;36m. 3s\e[0m"
 sleep 1
-echo -e "\e[1;36m.. 2s\e[0m"
+echo -e "   \e[1;36m.. 2s\e[0m"
 sleep 1
-echo -e "\e[1;36m... 1s\e[0m"
+echo -e "    \e[1;36m... 1s\e[0m"
 sleep 2                     
 clear
 echo -e "\e[1;32mArchivo \e[0m\e[1;32mmovido al directorio $d \e[0m"
@@ -186,11 +186,11 @@ echo ""
 echo -e "\e[1;33marchivo \e[0m\e[1;31m= \e[0m$e"
 echo ""
 sleep 1          
-echo -e "\e[1;36m. 3\e[0m"
+echo -e "  \e[1;36m. 3s\e[0m"
 sleep 1 
-echo -e "\e[1;36m.. 2s\e[0m"
+echo -e "   \e[1;36m.. 2s\e[0m"
 sleep 1
-echo -e "\e[1;36m... 1s\e[0m"  
+echo -e "    \e[1;36m... 1s\e[0m"  
 sleep 2       
 clear
 echo -e "\e[1;32mEl archivo $e ha sido editado \e[0m"
@@ -212,11 +212,11 @@ sleep 1
 echo ""
 echo -e "\e[1;33marchivo \e[0m\e[1;31m= \e[0m$f"
 echo ""
-echo -e "\e[1;36m. 3s\e[0m"
+echo -e "  \e[1;36m. 3s\e[0m"
 sleep 1          
-echo -e "\e[1;36m.. 2s\e[0m"
+echo -e "   \e[1;36m.. 2s\e[0m"
 sleep 1 
-echo -e "\e[1;36m... 1s\e[0m"
+echo -e "    \e[1;36m... 1s\e[0m"
 sleep 2       
 clear
 echo -e "\e[1;32mArchivo eliminado\e[0m"
