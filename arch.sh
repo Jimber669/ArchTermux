@@ -1,5 +1,6 @@
 #!/bin/sh
 #Creador Jimber669
+#Si usan mi script dar crédito 😉
 
 clear                                                                                
 echo -e "\e[1;41mBienvenido \e[0m"
